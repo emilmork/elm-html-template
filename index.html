@@ -1,0 +1,17 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="Elm in the browser">
+  <script type="text/javascript" src="elm.js"></script>
+</head>
+
+<body>
+  <div id="content"></div>
+  <script>
+    var el = document.getElementById('content');
+    Elm.embed(Elm.App, el);
+  </script>
+</body>
+</html>
