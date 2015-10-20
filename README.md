@@ -3,7 +3,7 @@
 
 Simple elm template printing out "hello world in the browser"
 
-Install Elm [Elm installer](http://elm-lang.org/install)
+Install [Elm](http://elm-lang.org/install)
 
 Install deps
 ```bash
