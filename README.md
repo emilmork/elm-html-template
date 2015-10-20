@@ -7,7 +7,7 @@ Install [Elm](http://elm-lang.org/install)
 
 Install deps
 ```bash
-elm-package isntall
+elm-package install
 ```
 
 Compile main.elm
